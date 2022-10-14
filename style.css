@@ -61,7 +61,12 @@ body {}
     .num-padding {
         padding: 25px !important;
     }
-
+    
+    .feedback-fig-caption
+    {
+        margin-bottom: 28px !important;
+    }
+    
     .footer-container {
         padding: 25px !important;
     }
