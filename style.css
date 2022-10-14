@@ -66,6 +66,10 @@ body {}
     {
         margin-bottom: 28px !important;
     }
+    .team-heading-desc
+    {
+        margin-bottom: 28px !important;
+    }
     
     .footer-container {
         padding: 25px !important;
@@ -137,6 +141,14 @@ body {}
     color: white;
     font-size: 16px;
     font-weight: bolder;
+    font-family: Roboto, sans-serif;
+    text-decoration: none;
+}
+
+.mynav-middle-items {
+    color: white;
+    font-size: 16px;
+    font-weight: 800px;
     font-family: Roboto, sans-serif;
     text-decoration: none;
 }
@@ -419,12 +431,11 @@ body {}
 
 /*---------OUR-CLIENTS START-----*/
 
-.mynav-middle-items {
-    color: white;
-    font-size: 16px;
-    font-weight: 800px;
-    font-family: Roboto, sans-serif;
-    text-decoration: none;
+.team-heading-desc
+{ max-width: 800px;
+margin-top: 10px;
+font-family: Asap, sans-serif;
+color: #888888;
 }
 
 .card-title {
